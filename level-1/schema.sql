@@ -12,11 +12,18 @@ CREATE TABLE products (
   product_title TEXT
 );
 
--- Customer table for first data set
-CREATE TABLE customers (
+-- Customer table for the first data set
+CREATE TABLE customers_one (
   customer_id INT PRIMARY KEY NOT NULL UNIQUE,
   customer_count INT
 );
+
+-- Customer table for the second data set
+CREATE TABLE customers_two (
+  customer_id INT PRIMARY KEY NOT NULL UNIQUE,
+  customer_count INT
+);
+
 
 -- vine table
 CREATE TABLE vine_table (
