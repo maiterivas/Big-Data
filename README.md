@@ -3,7 +3,7 @@
 ## Overview/Description:
 
 The assignment description and instructions can be found below, which included choosing an Amazon reviews dataset of a product category of our preference. For the sake of this assignment, I chose Musical Instruments and Digital Video Games Reviews, since both categories entail something I enjoy. The SQL schema has been uploaded, which works for both tables since they contain the same column names, I simply added a second customer table, since I worked on two different datasets. Lastly, the remainder of the code can be found in my Level-1 folder in their corresponding .ipynb files. These were run using Google Colab, and then exported to GitHub as .ipynb files. 
-<br> <br> I am not too familiar with Spark and Hadoop, but I tried taking this assignment as an opportunity to, and I hope it shows! It has been an amazing past 6 months learning a number of programming languages, statistics, visualizations, and more! I'm glad I took the leap and signed up for this class, as I never even dreamed I could get this far into my data sccience knowledge, but I am looking forward to learning even more and taking my skills to the next level.
+<br> <br> I am not too familiar with Spark and Hadoop, but I tried taking this assignment as an opportunity to get familiarized with them, and I hope it shows! It has been an amazing past 6 months learning a number of programming languages, statistics, visualizations, and more! I'm glad I took the leap and signed up for this class, as I never even dreamed I could get this far into my data sccience knowledge, but I am looking forward to learning even more and taking my skills to the next level.
 
 # Unit 22 Homework: “Alexa, Can You Handle Big Data?”
 
